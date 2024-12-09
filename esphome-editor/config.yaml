@@ -1,5 +1,5 @@
 name: "ESPHome Editor"
-description: "EspHome-Editor is a tool designed to streamline the creation and management of YAML configurations for EspHome. If you're working with devices that have many similar components or deploying multiple similar devices, this tool is here to save you time and effort"
+description: "Streamline the creation and management of YAML configurations for ESPHome when handling multiple similar components or deploying numerous identical devices."
 version: "0.2.0"
 url: https://github.com/Morcatko/EspHome-Editor
 slug: "esphome_editor"
